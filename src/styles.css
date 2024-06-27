@@ -37,7 +37,7 @@ body {
 
 .social-media-icon {
   margin: 0 10px;
-  color: #46b450;
+  color: #f56e28;
   font-size: 24px;
   text-decoration: none;
   transition: color 0.3s;
@@ -45,8 +45,8 @@ body {
 }
 
 .social-media-icon:hover {
-  color: #f56e28;
-
+  
+  color: #46b450;
 
 }
 

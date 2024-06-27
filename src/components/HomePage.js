@@ -11,12 +11,14 @@ const HomePage = () => {
       <Navbar />
       <div className="banner">
         <video className='vid' autoPlay muted loop>
-          <source src='https://videos.pexels.com/video-files/853865/853865-hd_1280_720_25fps.mp4' type='video/mp4' />
+          <source src='https://videos.pexels.com/video-files/854216/854216-hd_1920_1080_25fps.mp4' type='video/mp4' />
         </video>
         <h1 className='txt' >Coming Soon</h1>
+        <div className='para'>
+          <h2>Deliciousness Delivered Soon!</h2></div>
         <div className='com' >
         <SocialIcons />
-        <p className="contact-email">Contact us at: contact@fooddelivery.com</p>
+        <p className="contact-email">write us at: <a href='mailto:support@kraveey.com' >support@kraveey.com</a></p>
         </div>
       </div>
       
