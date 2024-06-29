@@ -18,7 +18,7 @@ const HomePage = () => {
           <h2>Deliciousness Delivered Soon!</h2></div>
         <div className='com' >
         <SocialIcons />
-        <p className="contact-email">write us at: <a href='mailto:support@kraveey.in' >support@kraveey.com</a></p>
+        <p className="contact-email">write us at: <a href='mailto:support@kraveey.in' >support@kraveey.in</a></p>
         </div>
       </div>
       
